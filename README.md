@@ -57,10 +57,15 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifanaeem909&theme=tokyonight&border_radius=10" alt="streak stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifanaeem909&show_icons=true&locale=en&rank_icon=github&theme=tokyonight&border_radius=10" alt="readme stats" />
+  <!-- GitHub Streak Stats -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifanaeem909&theme=tokyonight&border_radius=10" style="width: 45%; margin-right: 20px;" alt="streak stats" />
+  <!-- GitHub Readme Stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifanaeem909&show_icons=true&locale=en&rank_icon=github&theme=tokyonight&border_radius=10" style="width: 45%;" alt="readme stats" />
+  
+  <!-- Add some space -->
   <br><br>
   
+  <!-- GitHub Top Languages -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifanaeem909&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=10" alt="language stats" />
 </div>
 
