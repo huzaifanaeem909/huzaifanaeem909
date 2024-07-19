@@ -48,7 +48,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  
+    
   <br/><br/><br/>
 </div>
 
@@ -74,3 +74,6 @@
 </div>
 
 <br/>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
