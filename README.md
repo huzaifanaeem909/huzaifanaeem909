@@ -75,5 +75,4 @@
 
 <br/>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifanaeem909&show_icons=true&locale=en&rank_icon=github&theme=tokyonight" alt="readme stats" /></p>
