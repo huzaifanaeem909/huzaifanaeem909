@@ -18,7 +18,7 @@
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:huzaifanaeem909@gmail.com" target="_blank">
@@ -56,10 +56,12 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifanaeem909&&theme=tokyonight" alt="streak stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifanaeem909&show_icons=true&locale=en&rank_icon=github&theme=tokyonight" alt="readme stats" /></p>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifanaeem909&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifanaeem909&theme=tokyonight&border_radius=10" alt="streak stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifanaeem909&show_icons=true&locale=en&rank_icon=github&theme=tokyonight&border_radius=10" alt="readme stats" />
+  <br><br>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifanaeem909&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=10" alt="language stats" />
 </div>
 
 <br/><br/>
@@ -69,9 +71,9 @@
 <br/>
 
 <div align="center">
-<a href='' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href='' target='_blank'>
+    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
 </div>
 
 <br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
