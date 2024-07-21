@@ -58,9 +58,9 @@
 <br>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifanaeem909&theme=tokyonight&border_radius=10" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifanaeem909&theme=tokyonight&border_radius=10" width="45%" alt="streak stats" />
   <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifanaeem909&show_icons=true&locale=en&rank_icon=github&theme=tokyonight&border_radius=10" alt="readme stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huzaifanaeem909&show_icons=true&locale=en&rank_icon=github&theme=tokyonight&border_radius=10" width="42%" alt="readme stats" />
 </div>
 
 <!-- GitHub Top Languages -->
