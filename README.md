@@ -7,6 +7,10 @@
 
 <h3 align="center">A passionate Software Engineer</h3>
 
+<div align="center">
+    <img alt="coding" width="300" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+</div>
+
 <br/>
 
 <div align="center">
@@ -84,19 +88,3 @@
 
 <br/>
 
-<div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
-      🔭 I’m currently working on **a marketplace**
-      <br>
-      🌱 I’m currently learning **AWS, Docker, DevOps**
-      <br>
-      💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/huzaifanaeem909/huzaifanaeem909/issues)**
-      <br>
-      ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-    </div>
-    <div>
-      <img alt="coding" width="300" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
-    </div>
-  </div>
-</div>
