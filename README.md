@@ -17,7 +17,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **AWS, Docker, DevOps**
+ 🌱 I’m currently learning **Django, AWS, DevOps**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/huzaifanaeem909/huzaifanaeem909/issues)**
 
