@@ -43,9 +43,14 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,git,github,figma,tailwind,bootstrap,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <!-- Frontend & UI -->
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind,bootstrap,mui,figma" /><br>
+    <!-- Backend & Databases -->
+    <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,postgres,mysql,mongodb,redis,postman" /><br>
+    <!-- DevOps & Infrastructure -->
+    <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,aws,azure,docker,kubernetes,kafka,jenkins,nginx" /><br>
 </div>
 
 <br/>
